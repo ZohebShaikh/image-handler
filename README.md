@@ -1,4 +1,4 @@
-![](docs\pytest.png)
+![](docs/pytest.png)
 
 Development Environment:
 
